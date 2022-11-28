@@ -7,7 +7,6 @@ class Vehicle:
         self.type_of_tank = type_of_tank
         self.seating_capacity = seating_capacity
         self.maximum_velocity = maximum_velocity
-#testing 123
 #Assign class "Vehicle" to a variable "vios"
 vios = Vehicle ('4','petrol',5,180)
 print(vios.number_of_wheels)
